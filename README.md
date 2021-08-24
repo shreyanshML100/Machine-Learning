@@ -1,1 +1,1 @@
-# Machine-Learning-Andrew-NG-Assignments
+# Machine Learning (Andrew NG) Assignments
