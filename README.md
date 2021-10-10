@@ -2,7 +2,10 @@
 Machine Learning Course Link: 
 https://www.coursera.org/learn/machine-learning/home/welcome
 
+
+
 The Topics covered in the Assignments are as follows :
+
 
 Assignment 1 : Predicting House Prices using Linear Regression 
 
