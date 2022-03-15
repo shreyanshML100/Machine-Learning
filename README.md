@@ -9,7 +9,7 @@ Project 2 : Performing Classification on a dataset using Logistic Regression
 
 Project 3 : Implementing Multiclass Logistic Regression and Forward Propagation on MNIST dataset
 
-Project 4 : Designing Neural Networks using BackPropagation
+Project 4 : Designing Neural Networks using BackPropagation Algorithm
 
 Project 5 : Error Metrics and Learning Curves
 
